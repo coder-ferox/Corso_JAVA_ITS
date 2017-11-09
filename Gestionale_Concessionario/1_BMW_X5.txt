@@ -1,0 +1,7 @@
+Marca: BMW
+Modello: X5
+Cilindrata: 2000
+Alimentazione: DIESEL
+Colore: NERA_METALLIZZATA
+Turbo: SI
+Velocità Max: 260 Km/h

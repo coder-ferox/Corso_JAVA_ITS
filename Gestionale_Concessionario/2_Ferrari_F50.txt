@@ -1,0 +1,7 @@
+Marca: Ferrari
+Modello: F50
+Cilindrata: 2000
+Alimentazione: BENZINA
+Colore: ROSSO
+Turbo: SI
+Velocità Max: 280 Km/h
